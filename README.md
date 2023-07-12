@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi  👋 I'm Grace
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+## About Me
+I'm a rising college sophomore on the East Coast interested in data and translation.
+
+## Connect with me:
+- [LinkedIn](www.linkedin.com/in/grace-kim-865474259)
+- Email: gk3261@princeton.edu
 
 <!--
 **gk3261/gk3261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
