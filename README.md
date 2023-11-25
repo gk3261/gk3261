@@ -1,4 +1,4 @@
-# Hi  👋 I'm Grace
+# Hi  👋 I'm Grace Kim
 
 
 <div id="header" align="center">
@@ -6,7 +6,7 @@
 </div>
 
 ## About Me
-I'm a rising college sophomore on the East Coast interested in data and translation.
+I'm a second-year undergraduate majoring in Computer Science (CS) at Princeton. My primary interests lie in data science & optimization, data analysis, translation, and innovative problem-solving.
 
 ## Connect with me:
 - [LinkedIn](www.linkedin.com/in/grace-kim-865474259)
