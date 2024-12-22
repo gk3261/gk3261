@@ -8,6 +8,13 @@
 ## About Me
 I'm a third-year undergraduate majoring in Computer Science (CS) at Princeton. 
 
+
+- 🔭 My published projects/contributions:
+    TigerLift(tigerlift.onrender.com)
+    "The Rise and Fall of TigerConfessions" (https://projects.dailyprincetonian.com/rise-fall-tiger-confessions/)
+- 🌱 I’m currently working on ...
+    Roomly
+
 ## Connect with me:
 - [LinkedIn](www.linkedin.com/in/grace-kim-865474259)
 - Email: gk3261@princeton.edu
