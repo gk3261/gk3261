@@ -6,7 +6,7 @@
 </div>
 
 ## About Me
-I'm a second-year undergraduate majoring in Computer Science (CS) at Princeton. My primary interests lie in data science & optimization, data analysis, translation, and innovative problem-solving.
+I'm a third-year undergraduate majoring in Computer Science (CS) at Princeton. 
 
 ## Connect with me:
 - [LinkedIn](www.linkedin.com/in/grace-kim-865474259)
