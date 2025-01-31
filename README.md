@@ -10,7 +10,7 @@ I'm a third-year undergraduate majoring in Computer Science (CS) at Princeton.
 
 
 ### 🔭 My published projects/contributions:
-- TigerLift (tigerlift.onrender.com)
+- TigerLift (tigerlift.onrender.com -- currently under maintenance to submit to TigerApps)
 - "The Rise and Fall of TigerConfessions" (https://projects.dailyprincetonian.com/rise-fall-tiger-confessions/)
   
 ### 🌱 I’m currently working on ... Roomly 🤫
