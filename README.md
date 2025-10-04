@@ -6,18 +6,11 @@
 </div>
 
 ## About Me
-I'm a third-year undergraduate majoring in Computer Science (CS) at Princeton. 
-
-
-### 🔭 My published projects/contributions:
-- TigerLift (https://lift.tigerapps.org/ -- read more about it on TigerApps website! https://tigerapps.org/)
-- "The Rise and Fall of TigerConfessions" (https://projects.dailyprincetonian.com/rise-fall-tiger-confessions/)
+I'm a senior undergraduate majoring in Computer Science (CS) at Princeton. 
   
-### 🌱 I’m currently working on ... Roomly 🤫
-
 ## Connect with me:
 - [LinkedIn](www.linkedin.com/in/grace-kim-865474259)
-- Email: gk3261@princeton.edu
+- Email: grace.e.kim@princeton.edu
 
 <!--
 **gk3261/gk3261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
