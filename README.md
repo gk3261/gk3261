@@ -9,7 +9,7 @@
 I'm a senior undergraduate majoring in Computer Science (CS) at Princeton. 
   
 ## Connect with me:
-- [LinkedIn](www.linkedin.com/in/grace-kim-865474259)
+- [LinkedIn](www.linkedin.com/in/grace-e-kim)
 - Email: grace.e.kim@princeton.edu
 
 <!--
